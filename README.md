@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a college student<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently a college student<br>⚡ Fun fact about me<br> I'm Jan Dominic Dequina, 21 years old, living in Makati City. 
 
 
 ## 🌐 Socials:
