@@ -1,8 +1,5 @@
 <div align="center">
-  <video width="640" height="360" controls>
-    <source src="Purple Black Abstract Professional Technology Business Channel Opening Youtube Intro.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://raw.githubusercontent.com/Dooomss/Dooomss/master/Luxury Blue Gold Summer Office Party Invitation.jpg" />
 </div>
 
 
