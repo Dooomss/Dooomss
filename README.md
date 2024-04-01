@@ -1,3 +1,11 @@
+<div align="center">
+  <video width="640" height="360" controls>
+    <source src="Purple Black Abstract Professional Technology Business Channel Opening Youtube Intro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently a college student<br>⚡ Fun fact about me<br> I'm Jan Dominic Dequina, 21 years old, living in Makati City. 
 
