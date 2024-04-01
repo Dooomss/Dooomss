@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Dominic Dequina](https://www.facebook.com/jandominic.dequina?mibextid=JRoKGi)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/@domssdequina](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fdomssdequina%3Figsh%3DOXRzZ3U1eWtleTdy&h=AT2GXX9nS53OtB6h2uGSdbtcwvEufGUjwiycr3cGsJ7Hgwh1rBNrEmoTaaaLlAPWh3PciX7YOylkJFsfIPuJy46pi3SRxCTdKTxocU7TRtHUaJfkxb5_nT4ltZn0VBjM4b4PpQ)) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jandominic.dequina?mibextid=JRoKGi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/domssdequina?igsh=OXRzZ3U1eWtleTdy&fbclid=IwAR3P1-k1jSlGvP8-ccFHtXiKOBRBnUUSYIuSKq_23u7QMcZPtCKlOsFV9x8)
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
